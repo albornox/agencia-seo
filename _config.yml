@@ -325,3 +325,17 @@ defaults:
       comments: # true
       share: true
       related: true
+# Navigation
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Servicios"
+    url: /servicios/
+  - title: "Nosotros"
+    url: /nosotros/
+  - title: "Blog"
+    url: /blog/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Contacto"
+    url: /contacto/
